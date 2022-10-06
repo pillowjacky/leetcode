@@ -9,6 +9,7 @@
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium     |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                       | Medium     |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                             | Medium     |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                           | Medium     |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                       | Medium     |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Medium     |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                       | Medium     |
