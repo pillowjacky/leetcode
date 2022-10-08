@@ -6,6 +6,7 @@
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | Medium     |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                               | Medium     |
+| 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | Medium     |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium     |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                       | Medium     |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                             | Medium     |
