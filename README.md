@@ -5,6 +5,7 @@
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy       |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | Medium     |
+| 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | Medium     |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                               | Medium     |
 | 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | Medium     |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium     |
