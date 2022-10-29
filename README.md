@@ -8,6 +8,7 @@
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | Medium     |
 | 39  | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                               | Medium     |
 | 46  | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium     |
+| 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               | Medium     |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                               | Medium     |
 | 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | Medium     |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium     |
