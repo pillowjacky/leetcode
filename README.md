@@ -17,6 +17,7 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                           | Medium     |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Medium     |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                       | Medium     |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)               | Medium     |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Medium     |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                       | Medium     |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                           | Medium     |
