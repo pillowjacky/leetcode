@@ -21,6 +21,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Medium     |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                       | Medium     |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                           | Medium     |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/)                                                                 | Medium     |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                         | Medium     |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                         | Medium     |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Medium     |
