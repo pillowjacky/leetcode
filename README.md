@@ -10,6 +10,7 @@
 | 46  | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium     |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               | Medium     |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                               | Medium     |
+| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                       | Medium     |
 | 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | Medium     |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium     |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                       | Medium     |
